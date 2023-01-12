@@ -157,7 +157,7 @@ Now let's see how easy it is to [apply your suggestion](https://docs.github.com/
 
 ### :keyboard: Activity: Apply suggested changes
 
-1. Click **Commit suggestion**.
+1. Click **Commit sugestion**.
 1. Type a commit message.
 1. Click **Commit changes**.
 
